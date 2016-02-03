@@ -1,2 +1,4 @@
 # first-Git-Program
-Just another hello world !
+
+Hi this is my first venture into git. 
+I have a secert idea for World peace.
