@@ -1,4 +1,5 @@
 # first-Git-Program
 
 Hi this is my first venture into git. 
-I have a secert idea for World peace.
+I have lots of ideas in my mind.
+With your help maybe we can actually execute them. 
